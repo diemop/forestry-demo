@@ -5,6 +5,7 @@ fields:
 - type: text
   name: title
   label: Title
+  default: '0'
 - name: sub_heading
   label: Sub Heading
   type: text
@@ -26,3 +27,15 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: image_gallery
+  name: '00'
+  label: '0'
+  description: '0'
+  default:
+  - "/uploads/2018/02/17/neurons.jpg"
+  - "/uploads/2017/11/14/filipe-almeida-192048 (1).jpg"
+  - "/uploads/2017/11/13/stem.png"
+  - "/uploads/2018/02/17/bridge3.jpg"
+  - "/uploads/2017/11/13/nysed.png"
+  - "/uploads/2017/11/13/health.png"
+  - "/uploads/2018/02/17/city.jpg"
