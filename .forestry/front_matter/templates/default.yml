@@ -35,3 +35,5 @@ fields:
   name: '1'
   label: '1'
   description: '1'
+pages:
+- 1.html
