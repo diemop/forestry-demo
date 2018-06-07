@@ -23,3 +23,15 @@ fields:
   label: layout
   hidden: true
   default: post
+- type: text
+- type: image_gallery
+  default:
+  - "/uploads/2018/02/17/bridge.jpg"
+  - "/uploads/2017/11/14/jeffrey-wegrzyn-183858.jpg"
+  - "/uploads/2017/11/14/joseph-gonzalez-399972.jpg"
+  - "/uploads/2018/02/25/car.jpg"
+  - "/uploads/2017/11/13/dal-logo.png"
+  - "/uploads/2018/02/17/building2.jpg"
+  name: '1'
+  label: '1'
+  description: '1'
